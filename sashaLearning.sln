@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sashaLearning", "sashaLearning\sashaLearning.csproj", "{FD23A70F-8223-4D01-AEAE-CD7949AC1CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD23A70F-8223-4D01-AEAE-CD7949AC1CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD23A70F-8223-4D01-AEAE-CD7949AC1CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD23A70F-8223-4D01-AEAE-CD7949AC1CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD23A70F-8223-4D01-AEAE-CD7949AC1CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D7243D-0859-443B-AEFC-954020232B9D}
+	EndGlobalSection
+EndGlobal
